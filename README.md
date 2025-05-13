@@ -1,5 +1,10 @@
-# scise
 ![scise-wordmark](https://github.com/user-attachments/assets/51f78926-2953-4461-ba6b-6c605b8bde56)
+
+# scise
+> **verb**
+> ***scise*** (third-person singular simple present scises, present participle scising, simple past and past participle scised)
+> 
+> *To cut; to penetrate.*
 
 This repository exists as a placeholder.
 
